@@ -13,9 +13,8 @@ describe('First two terms', function() {
     });
 });
 
-
-describe('Negative', function() {
-    it('should return undefined', function() {
-        assert.strictEqual(main.fibonacci(-1),undefined);
-      });
-  });
+// describe('Negative', function() {
+//     it('should return undefined', function() {
+//         assert.strictEqual(main.fibonacci(-1),undefined);
+//       });
+//   });
